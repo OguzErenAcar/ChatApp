@@ -13,6 +13,7 @@ template .
 Also you can review from this link : 
 [https://chatappbasic.netlify.app](https://chatappbasic.netlify.app)
 
+![Screenshot of a public channel](https://i.hizliresim.com/mglfaya.png)
 
 
 # Usage  
