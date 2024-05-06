@@ -1,7 +1,6 @@
 # ChatApp 
 
-Written with TypeScript a sport page. Admin panel and backend requiests not created . Now Its like this
-template . 
+A single-room application that allows messaging with multiple people.
 
 # Used Technologies
 - Javascript ,React
