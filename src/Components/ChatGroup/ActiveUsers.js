@@ -40,8 +40,7 @@ function ActiveUsers() {
           <ActiveUserİtem key={index} {...item}/>
         ))}
         </li>
-      </ul>
-      <button onClick={()=>{console.log(currentUsers)}}>console</button>
+      </ul> 
     </div>
   );
 }
